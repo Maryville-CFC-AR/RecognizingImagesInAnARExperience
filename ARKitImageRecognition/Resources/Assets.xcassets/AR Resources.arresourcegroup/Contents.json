@@ -5,40 +5,31 @@
   },
   "resources" : [
     {
-      "filename" : "iMac 21.5-inch.arimageset"
+      "filename" : "CFC_video_Wall.arreferenceimage"
     },
     {
-      "filename" : "iMac 27-inch.arimageset"
+      "filename" : "CFCvideoWall.arreferenceimage"
     },
     {
-      "filename" : "iPad 9.7-inch.arimageset"
+      "filename" : "charger.arreferenceimage"
     },
     {
-      "filename" : "iPad Pro 10.5-inch.arimageset"
+      "filename" : "iPhone X.arreferenceimage"
     },
     {
-      "filename" : "iPad Pro 12.9-inch.arimageset"
+      "filename" : "TV6.arreferenceimage"
     },
     {
-      "filename" : "iPhone 4-inch.arimageset"
+      "filename" : "TV7.arreferenceimage"
     },
     {
-      "filename" : "iPhone 4.7-inch.arimageset"
+      "filename" : "TV8and9.arreferenceimage"
     },
     {
-      "filename" : "iPhone 5.5-inch.arimageset"
+      "filename" : "TV10.arreferenceimage"
     },
     {
-      "filename" : "iPhone X.arimageset"
-    },
-    {
-      "filename" : "MacBook 12-inch.arimageset"
-    },
-    {
-      "filename" : "MacBook Pro 13-inch.arimageset"
-    },
-    {
-      "filename" : "MacBook Pro 15-inch.arimageset"
+      "filename" : "TV11.arreferenceimage"
     }
   ]
 }
